@@ -1,4 +1,4 @@
-# Trained-Torch-RNN
+# Torch-RNN-Trained
 
 ## torch-rnn
 from https://github.com/jcjohnson/torch-rnn <br/>
@@ -10,3 +10,13 @@ and `nn`, so they should be easy to integrate into existing projects.
 
 Compared to char-rnn, torch-rnn is up to **1.9x faster** and uses up to **7x less memory**. For more details see 
 the [Benchmark](#benchmarks) section below.
+
+## Biological Samples
+1. Human GRCh38 reference genome
+2. E. Coli reference genome
+
+## Input Arguments
+-max_epochs 8 -rnn_size 128 -dropout 0.05 -num_layers 3
+
+## Blast Alignments
+
