@@ -12,13 +12,13 @@ Compared to char-rnn, torch-rnn is up to **1.9x faster** and uses up to **7x les
 the [Benchmark](#benchmarks) section below.
 
 ## Biological Samples
-1. Human GRCh38 reference genome
-2. E. Coli reference genome
+1. Human GRCh38 reference genome (Adam)
+2. E. Coli reference genome (Eli)
 
 ## Input Arguments
 -max_epochs 8 -rnn_size 128 -dropout 0.05 -num_layers 3
 
-## Blastn Alignments
+## Blastn Alignment Results
 See blast at: https://blast.ncbi.nlm.nih.gov/Blast.cgi<br/>
 **Sampling from the longest checkpoints**<br/>
 
@@ -26,3 +26,4 @@ Eli:
 ![alt text](https://github.com/flynn-chen/Torch-RNN-Trained/blob/master/Screen%20Shot%202018-08-20%20at%202.49.26%20PM.png)
 
 Adam:
+![alt text](https://github.com/flynn-chen/Torch-RNN-Trained/blob/master/Screen%20Shot%202018-08-20%20at%202.54.59%20PM.png)
