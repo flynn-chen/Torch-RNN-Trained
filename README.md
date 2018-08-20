@@ -18,5 +18,11 @@ the [Benchmark](#benchmarks) section below.
 ## Input Arguments
 -max_epochs 8 -rnn_size 128 -dropout 0.05 -num_layers 3
 
-## Blast Alignments
+## Blastn Alignments
+See blast at: https://blast.ncbi.nlm.nih.gov/Blast.cgi<br/>
+**Sampling from the longest checkpoints**<br/>
 
+Eli:
+![alt text](https://github.com/flynn-chen/Torch-RNN-Trained/blob/master/Screen%20Shot%202018-08-20%20at%202.49.26%20PM.png)
+
+Adam:
